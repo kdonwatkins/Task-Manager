@@ -1,0 +1,8 @@
+Task information below:
+
+	Total generated and tracked tasks: 3.
+	Total complete tasks: 1.
+	Total incomplete tasks: 2.
+	Total incomplete and overdue tasks: 2.
+	Percentage incomplete tasks: 66.67%.
+	Percentage overdue tasks: 100.0%.

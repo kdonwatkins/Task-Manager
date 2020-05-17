@@ -1,0 +1,9 @@
+Current user information below:
+
+	Total users: 4.
+	Total generated and tracked tasks: 3.
+	Total tasks belonging to you: 1.
+	Total percentage of tasks assigned to you: 33.33%.
+	Total percentage of your completed tasks: 0.0%.
+	Total percentage of your tasks are incomplete: 100.0%.
+	Total percentage of your incomplete and overdue tasks: 100.0%.
